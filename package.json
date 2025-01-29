@@ -1,0 +1,14 @@
+{
+  "name": "nodejsmusicstreamer",
+  "version": "1.0.0",
+  "description": "this is a test build of a node music streamer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Zaworski",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
